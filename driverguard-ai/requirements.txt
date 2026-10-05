@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+ultralytics
+scikit-learn
+joblib
+torch
+pillow
+python-multipart
+numpy
+xgboost==2.0.3
